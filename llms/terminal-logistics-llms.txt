@@ -1,0 +1,60 @@
+# Terminal Industries
+
+> Terminal Industries - A leading company in the industry
+
+## Documentation Sets
+
+- [Full Documentation](https://terminal-industries.com/llms-full.txt): Complete documentation of Terminal Industries including all content and resources
+
+## Resources
+
+Guides, case studies, blogs, announcements, and videos about supply chain and logistics.
+
+- [Build As Your Yard Grows on One Yard Operating System | Terminal](/all-resources/build-as-your-yard-grows-on-one-operating-system): Skip bolt-on YMS modules. Start with one app, add more as your yard grows, and run every site on one AI-native Yard Operating System, gate to dock.
+- [Lights-Out Yard Episode 6: All Roads Lead to the Dock](/all-resources/lights-out-yard-episode-6-all-roads-lead-to-the-dock)
+- [OCR vs. Computer Vision in the Yard | Terminal Industries](/all-resources/ocr-reads-the-plate-computer-vision-runs-the-yard): Most "AI gate cameras" are just OCR reading a plate. See how Terminal's computer vision reads, understands, and acts to run the yard, not just record it.
+- [The CV Market Is Having Its SaaSpocalypse Moment](/all-resources/the-cv-market-is-having-its-saaspocalypse-moment): Legacy computer vision is priced like 2010s enterprise SaaS. Four shifts changed the math. Here's why CV should cost less and live inside your yard platform.
+- [Terminal Announces Yard Security](/all-resources/terminal-announces-yard-secuity): Yard Security, Cargo Fraud Prevention, and Chain-of-Custody Have Been a Patchwork; Terminal Industries Just Made Them Native to their Yard Operating System
+- [Beyond the YMS: How a Yard Operating System Unlocks Your WMS](/all-resources/beyond-the-yms): The YOS era retires the purpose-built YMS, which is still just a tidier task list, and replaces it with an AI-native system that orchestrates yard missions from data it captures directly. In doing so, it closes the highway-to-warehouse gap and feeds your WMS the clean, live input it needs to finally run at full speed.
+- [Why Yard Security Belongs Inside Your Yard Management System](/all-resources/if-trust-in-freight-is-dead-why-is-it-still-running-the-yard-): Freight fraud made the yard the supply chain's soft spot. See why AI-native systems can finally converge yard security and management at the gate, where it counts.
+- [The $4.5 Million Freight Theft That Started With a Fake Identity](/all-resources/the-4-5-million-freight-theft-that-started-with-a-fake-identity): The $4.5 Million Freight Theft That Started With a Fake Identity
+- [Lights-Out Yard EP5 - "Lights-Out, Eyes Open"](/all-resources/lights-out-yard-episode-5)
+- [The Driver Is Gone. The Yard Problem Isn't.](/all-resources/the-driver-is-gone-the-yard-problem-isn-t-): Pepsi driverless trucks 
+- [ERP TODAY: Automation and ERP Q&A with Terminal CPO](/all-resources/erp-today-with-terminal-cro-chris-brumett)
+- [Humanoid Robots Are Entering Logistics. But the Yard Still Has to Catch Up.](/all-resources/humanoid-robots-are-entering-logistics-but-the-yard-still-has-to-catch-up-): Humanoid Robots Are Entering Logistics. But the Yard Still Has to Catch Up.
+- [The Autonomous Warehouse Has a Blind Spot: The Yard](/all-resources/the-autonomous-warehouse-has-a-blind-spot-the-yard): The Autonomous Warehouse Has a Blind Spot: The Yard
+- [Explore insights from 2000+ operations leaders on what's working, what's breaking, and where teams are investing ](/all-resources/contact-us-interactive-survey)
+- [Introducing Terminal Industries Computer Vision](/all-resources/introducing-terminal-industries-computer-vision)
+- [Automation Isn’t the Hard Part Anymore](/all-resources/automation-isnt-the-hard-part-anymore): P&G’s announcement is a reminder that the future of logistics will not be defined by who installs the most automation.
+- [Terminal Industries receives another 5 star Gartner Peer Review: "Terminal Teams Offer Responsive Support and Efficient Information Gathering Experience" ](/all-resources/terminal-industries-receives-their-third-5-star-gartner-peer-review): Terminal Industries receives their third, 5-start Gartner Peer Insights Review 
+- [Lights Out Yard EP4 - Lights-Out, Cameras, Action!](/all-resources/lights-out-yard-ep4-lights-out-cameras-action-)
+- [Amazon Just Turned Its Supply Chain Into a Product. Here’s What That Means for the Yard](/all-resources/amazon-just-turned-its-supply-chain-into-a-product-here-s-what-that-means-for-the-yard): Amazon Just Turned Its Supply Chain Into a Product. Here’s What That Means for the Yard
+- [Lights Out Yard EP3 - Turn this ON before you turn the lights OUT](/all-resources/lights-out-yard-episode-3-replay)
+- [View All Resources](/resources): Browse all resources, guides, case studies, and articles
+
+## Legal & Information
+
+Legal documents and additional information.
+
+- [Privacy Policy](/privacy-policy): Our privacy policy and data protection practices
+- [Terms of Service](/terms-of-service): Terms and conditions of use
+- [Security](/security): Security information and practices
+- [System Status](/system): Check the status of our systems and services
+
+## Pages
+
+Main pages and sections of the website managed in Storyblok
+
+- [Terminal Industries 2026 State of the Yard Survey Report ](/2026-state-of-the-yard-survey-report): Terminal Industries 2026 State of the Yard Survey Report 
+- [Cyndie landing page ](/Cyndie-landing-page)
+- [Demo Landing Page](/demo-landing-page)
+- [Gartner Landing Page](/Gartner2026)
+- [Gartner state of yard survey](/gartner26-state-of-the-yard-survey)
+- [Interactive Highlights 2026 State of the yard survey](/interactive-highlights-2026-state-of-the-yard-survey)
+- [Lets Talk Supply Chain Library](/lets-talk-supply-chain-library)
+- [MODEX branded interactive survey results ](/modex-state-of-the-yard-survey-report)
+- [Modex Landing Page](/modex2026)
+- [Subscribe to our Newsletter](/subscribe-to-our-newsletter)
+- [Virtual MODEX Booth](/virtual-modex-booth)
+- [Yard Efficiency Calculator](/yard-efficiency-calculator): Massive impact, minimal disruption, insane cost savings.
+- [Terminal Yard Security | AI‑Driven Perimeter Security & Cargo Fraud Protection](/yard-security): Terminal unifies yard security and yard management from gate to dock: perimeter, carrier risk, driver ID, and load verification in one system of record.

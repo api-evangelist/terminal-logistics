@@ -1,0 +1,21 @@
+generated: '2026-07-21'
+method: probed
+source: live HTTP probes of terminal-industries.com well-known paths
+host: terminal-industries.com
+probes:
+- path: /.well-known/security.txt
+  status: 404
+  file: null
+- path: /.well-known/openid-configuration
+  status: 404
+  file: null
+- path: /.well-known/oauth-authorization-server
+  status: 404
+  file: null
+- path: /.well-known/api-catalog
+  status: 404
+  file: null
+- path: /.well-known/ai-plugin.json
+  status: 404
+  file: null
+notes: No .well-known documents are published; nothing to save. Absence is expected for an enterprise SaaS with no public API surface.

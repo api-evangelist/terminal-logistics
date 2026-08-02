@@ -1,8 +1,29 @@
 aid: terminal-logistics
 name: Terminal Logistics
-description: Terminal Logistics is a company surfaced as a portfolio company of 8vc and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Terminal Industries (Terminal Logistics) is the company behind the Terminal Yard
+  Operating System (YOS), an AI-native, fully-integrated platform for yard operations
+  across logistics and supply chain. It unifies gate management, carrier risk
+  assessment and driver ID, dispatch and spotter orchestration, yard visibility,
+  load verification, carrier appointments, and end-to-end yard security from the gate
+  to the dock, using computer vision and agentic AI. It serves third-party logistics,
+  retail and grocery, consumer packaged goods, refrigerated warehousing, contract
+  carriers, manufacturing facilities, and drop lots. Backed by 8vc. No public
+  developer API is currently published; this profile captures the company's public
+  web, security, and status surface.
 url: https://raw.githubusercontent.com/api-evangelist/terminal-logistics/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://a.storyblok.com/f/337048/1600x960/af6630c057/social-image.webp
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +32,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Logistics
+- Supply Chain
+- Yard Management
+- Computer Vision
+- Artificial Intelligence
+- Yard Operating System
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,26 @@ maintainers:
 common:
 - type: Website
   url: https://terminal-industries.com
+- type: Blog
+  url: https://terminal-industries.com/resources/blogs
+- type: Support
+  url: https://terminal-industries.com/contact
+- type: TermsOfService
+  url: https://terminal-industries.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://terminal-industries.com/privacy-policy
+- type: StatusPage
+  url: https://terminal-industries.com/system
+- type: LLMsTxt
+  url: llms/terminal-logistics-llms.txt
+- type: Lifecycle
+  url: lifecycle/terminal-logistics-lifecycle.yml
+- type: DomainSecurity
+  url: security/terminal-logistics-domain-security.yml
+- type: WellKnown
+  url: well-known/terminal-logistics-well-known.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 4
+  pass: local-v1

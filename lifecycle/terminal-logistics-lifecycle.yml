@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+source: https://terminal-industries.com/system and https://terminal-industries.com/llms.txt
+notes: >-
+  Terminal Industries publishes no public API, so there is no API versioning or
+  deprecation policy to capture. The company does operate a public system-status
+  page. No Sunset/Deprecation (RFC 8594) headers apply (no public API surface).
+status_page:
+  url: https://terminal-industries.com/system
+  present: true
+  observed_state: Operational
+  observed_uptime: '99.13%'
+  source: probed live page + llms.txt listing ("System Status")
+versioning:
+  policy: none-published
+  api_versioning: not-applicable
+deprecation:
+  policy: none-published
+sla:
+  policy: none-published
