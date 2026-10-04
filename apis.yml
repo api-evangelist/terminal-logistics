@@ -49,7 +49,7 @@ tags:
 - Logistics
 - Supply Chain
 - Yard Management
-- Computer-Vision
+- Computer Vision
 - Artificial Intelligence
 - Yard Operating System
 tags_raw:
@@ -60,6 +60,7 @@ tags_raw:
 - Computer Vision
 - Artificial Intelligence
 - Yard Operating System
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
